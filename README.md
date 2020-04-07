@@ -5,3 +5,4 @@
 ## Acknowledgment
 
 greatly helped by this : https://support.bioconductor.org/p/90392/
+and by this : http://www.sthda.com/english/wiki/gviz-visualize-genomic-data
